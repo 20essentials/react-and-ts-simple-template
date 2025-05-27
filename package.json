@@ -1,5 +1,8 @@
 {
   "name": "create-react-and-ts-simple-template",
+  "bin": {
+    "create-react-and-ts-simple-template": "./index.js"
+  },
   "private": true,
   "version": "0.0.1",
   "type": "module",
