@@ -7,7 +7,7 @@ export default defineConfig({
   //Localhost
   base: './',
 
-  //Deploy, I use a lot Github Pages.
+  //Deploy
   // base: '/project-000-948/',
 
   plugins: [react()],
