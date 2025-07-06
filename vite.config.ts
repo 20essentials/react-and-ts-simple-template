@@ -8,7 +8,7 @@ export default defineConfig({
   base: './',
 
   //Deploy
-  // base: '/project-000-948/',
+  // base: '/project-1020/',
 
   plugins: [react()],
   resolve: {

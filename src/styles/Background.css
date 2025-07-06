@@ -10,16 +10,4 @@
     rgba(120, 119, 198, 0.3),
     rgba(255, 255, 255, 0)
   );
-
-  .am-a-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 3vmax;
-    padding-inline: 3vmax;
-    background: linear-gradient(to right, #49a09d, #5f2c82);
-    background-clip: text;
-    color: transparent;
-  }
 }
